@@ -1,2 +1,5 @@
 # school-project
-hello world
+group mermbers
+ntihemuka jackson
+uwamahoro nadine
+nyiransegiyumva deborah
